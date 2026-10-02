@@ -1,9 +1,19 @@
-## Hi there 👋 I'm Iffah.
+## Hey there, I'm Iffah! 👋
 
-A learner who loves learning new things. I'd really like to learn together and share knowledge.<br>
-I'm currently an active student at SIB Nurul Fikri Academy 2025 in Fullstack Web Development.
+Just a curious person who loves learning, exploring, and figuring out how things work.<br>
+I enjoy building things, sharing ideas, and learning from people with different perspectives. For me, every project is a new opportunity to learn something meaningful.
 
-- 🔭 I’m currently a mid student of Informatics at Sekolah Tinggi Teknologi Terpadu Nurul Fikri.
-- 🌱 I’m currently learning Javascript and Kotlin.
-- 📫 How to reach me: iffahkarimaah@gmail.com.
-- ⚡ Fun fact: My expected dream is to be a nutritionist.
+## 🔭 Currently Exploring
+- PHP & JavaScript for web development
+- Laravel & React for building web applications
+- Tailwind CSS for styling responsive interfaces
+- Kotlin for my journey into mobile development
+  
+## 🚀 Featured Projects
+- Donation Recording Website
+- Women's Service Protection Website
+- Waste Management Mobile Application
+  
+## 🤝 Let's Connect
+- LinkedIn: linkedin.com/in/iffahk
+- Email: iffahkarimaah@gmail.com
