@@ -16,4 +16,4 @@ I enjoy building things, sharing ideas, and learning from people with different 
   
 ## 🤝 Let's Connect
 - Find me on <a href="https://linkedin.com/in/iffahk">LinkedIn</a>
-- Or contact me to iffahkarimaah@gmail.com
+- Or mail me to iffahkarimaah@gmail.com
