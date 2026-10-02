@@ -15,5 +15,5 @@ I enjoy building things, sharing ideas, and learning from people with different 
 - Waste Management Mobile Application
   
 ## 🤝 Let's Connect
-- LinkedIn: <a href="https://linkedin.com/in/iffahk">LinkedIn</a>
-- Email: iffahkarimaah@gmail.com
+- Find me on <a href="https://linkedin.com/in/iffahk">LinkedIn</a>
+- Or contact me to iffahkarimaah@gmail.com
